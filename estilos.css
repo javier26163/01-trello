@@ -1,0 +1,182 @@
+body{
+    font-family: Arial,Helvica,sans-serif;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    font-size: 20px;
+    
+}
+div#principal{
+    text-align: center;
+    font-size: 20px;
+    
+}
+#uno{
+    background:rgb(0,110,245);
+    color: floralwhite;
+}
+h1{
+    font-size: 2em;
+    line-height: 1.5em;
+
+
+}
+#dos{
+    background-color: #e4f0f6;
+}
+#tres{
+    background-color: #42548e;
+    color: floralwhite;
+    width: 1389;
+    height: 342px;
+}
+#app{
+    width: 155px;
+    height: 54px;
+}
+#verde{
+    background-color: #61bd4f;
+    color: floralwhite;
+    font-family: sans-serif;
+    width: 210px;
+    height: 40px;
+    font-size: 17px;
+    font-weight: bold;
+    
+}
+#agris{
+    
+    color: #999;
+}
+#blanco{
+    width: 1349px;
+    height: 340px;
+}
+ul
+{
+    margin: 0;
+    list-style: none;
+    padding: 0;
+    display: flex;
+}
+#trans{
+       border: 1px solid;
+    border-radius: .3em;
+    display: inline-block;
+    margin: .6em 0;
+    padding: .6em 1em;
+    text-decoration: none;
+    color: #5e98ba;
+}
+#trans2{
+       border: 1px solid;
+    border-radius: .3em;
+    display: inline-block;
+    margin: .6em 0;
+    padding: .6em 1em;
+    text-decoration: none;
+    color: #Fff;
+}
+li
+{
+   
+    margin: 0;
+    list-style: none;
+    padding: ;
+    display: flex;
+}
+
+
+li a{
+    display:block;
+    padding: 15px 20px;
+    color: black;
+    text-decoration:none;
+}
+#perro{
+     margin-left: -350px;
+            
+}
+#perros{
+      margin-left: 650px;
+    margin-top: -70px;
+    text-align: justify;
+    width: 585px;
+    height: 56px;
+}
+
+#izquierda{
+  
+    margin-right:-50px;
+    width: 50%;
+    margin-top: -135px;
+
+}
+#izquierda2{
+    width: 585px;
+    height: 140;
+    text-align: justify;
+    margin-left: 100px;
+    margin-top: 110px;
+    
+}
+#derecha2{
+    width: 285px;
+    height: 268px;
+    text-align: right;
+    margin-left: 400px;
+    margin-top: -120px;
+}
+#izquierda3{
+    width: 585px;
+    height: 140;
+    text-align: justify;
+    margin-left: 100px;
+    margin-top: -30px;
+    
+}
+#derecha3{
+    width: 10px;
+    height: 10px;
+    text-align: right;
+    margin-left: 600px;
+  
+}
+#derecha4{
+    width: 400px;
+    height: 268px;
+    text-align: justify;
+    margin-left: 700px;
+    margin-top: -250px
+}
+
+#derecha{
+    
+    margin-left: 650px;
+    margin-top: 130px;
+   
+}
+.arriba{
+    margin-top: 50px;
+    
+}
+#az{
+    color:rgb(0,110,245);
+
+}
+#unos{
+    margin-top: 70px;
+        display: block;
+    max-width: 585px;
+    position: relative;
+    text-align: center;
+    margin-left: 400px;
+    font-size: 20px;
+}
+.parra{
+        display: block;
+    max-width: 585px;
+    margin: 0 auto;
+    position: relative;
+}
